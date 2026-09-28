@@ -292,4 +292,4 @@ This repository serves as the official landing page for Stardew Valley. The soft
 **Get the most recent version of Stardew Valley today!**
 
 ---
-**Last updated:** 2026-09-28 14:49:00 UTC
+**Last updated:** 2026-09-28 20:59:05 UTC
